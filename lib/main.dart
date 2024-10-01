@@ -107,7 +107,6 @@ class _MyHomePageState extends State<MyHomePage> {
               });
               chooseComputerText();
             },
-            tooltip: 'Increment',
             child: const Text(
               '👆',
               style: TextStyle(fontSize: 30),
@@ -123,7 +122,6 @@ class _MyHomePageState extends State<MyHomePage> {
               });
               chooseComputerText();
             },
-            tooltip: 'Increment',
             child: const Text(
               '👇',
               style: TextStyle(fontSize: 30),
@@ -139,7 +137,6 @@ class _MyHomePageState extends State<MyHomePage> {
               });
               chooseComputerText();
             },
-            tooltip: 'Increment',
             child: const Text(
               '👉',
               style: TextStyle(fontSize: 30),
@@ -155,7 +152,6 @@ class _MyHomePageState extends State<MyHomePage> {
               });
               chooseComputerText();
             },
-            tooltip: 'Increment',
             child: const Text(
               '👈',
               style: TextStyle(fontSize: 30),
